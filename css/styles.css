@@ -51,6 +51,9 @@ p {
 }
 
 /* navigation bar  */
+.paw-img{
+    width: 50px;
+}
 .navbar {
     padding: 0 0 4.5rem;
 }
